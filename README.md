@@ -1,6 +1,6 @@
                                             // MODS EN 1.19.2 FORGE \\
 
-Pour télécharger le fichier tu click sur le gros bouton vers "codes" et tu fais "download zip" simple efficace
+Pour télécharger le fichier tu click sur le gros bouton vert "codes" et tu fais "download zip" simple efficace
 
 - Télécharger le dossier "mods" et pas tous les fichier un par un !
 - Aller dans les fichier de minecraft window+r / %appdata% ou autre choses en fonction de se que vous utilisez
